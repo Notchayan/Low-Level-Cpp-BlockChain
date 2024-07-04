@@ -38,7 +38,7 @@ This project uses a Makefile to automate the build process. Follow these steps t
 
 1. **Clone the repository** to your local machine:
     ```
-    git clone https://github.com/BlockchainProphet/SimpleBlockchainImplementation.git
+    git clone https://https://github.com/Notchayan/SimpleBlockChainImplementation.git
     ```
 
 2. **Navigate to the project directory**:
